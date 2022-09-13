@@ -1,0 +1,2 @@
+# mapMethod
+JavaScript mapmethod 
